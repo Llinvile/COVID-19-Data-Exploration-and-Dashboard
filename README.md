@@ -60,16 +60,16 @@ To recreate:
 
 ## 🖼️ Tableau Dashboard
 
-The Tableau dashboard visualizes key global metrics derived from the SQL analysis.  
+The Tableau dashboard visualises key global metrics derived from the SQL analysis.  
 It provides an interactive interface to explore:
 - Infection and Death Rates by Continent  
 - Percentage of Population Infected  
 - Vaccination Progress by Country
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 🌐 **View the Interactive Dashboard:**  
 🔗 [COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/llinvile.de.jongh/viz/CovidDashboard_17609176542880/Dashboard1)
 
-
-
+---
+## 📂 Project Structure
