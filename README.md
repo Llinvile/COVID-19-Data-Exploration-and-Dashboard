@@ -73,3 +73,5 @@ It provides an interactive interface to explore:
 
 ---
 ## 📂 Project Structure
+
+<pre> ```text COVID-19-Data-Exploration-and-Dashboard/ ├── data/ # Contains cleaned and prepared datasets used in the analysis │ └── CovidDeaths.xlsx # Excel file used for initial data cleaning and preprocessing │ ├── sql/ # SQL scripts used for data exploration and transformation │ └── CovidPortfolioProject.sql # Main SQL script with CTEs, temp tables, and analytical queries │ ├── tableau/ # Tableau workbook and visualization files │ └── CovidDashboard.twbx # Tableau dashboard built from SQL output and visualized insights │ ├── images/ # Images and previews used for documentation and presentation │ └── dashboard-preview.png # Screenshot of the Tableau dashboard for quick reference │ └── README.md # Project documentation explaining purpose, process, and insights ``` </pre>
