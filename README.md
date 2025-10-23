@@ -80,7 +80,7 @@ COVID-19-Data-Exploration-and-Dashboard/
 │   └── CovidDeaths.xlsx          # Excel file used for initial data cleaning and preprocessing
 ├── sql/                          # SQL scripts used for data exploration and transformation
 │   └── CovidPortfolioProject.sql # Main SQL script with CTEs, temp tables, and analytical queries
-├── tableau/                      # Tableau workbook and visualization files
+├── tableau/                      # Tableau workbook and visualisation files
 │   └── CovidDashboard.twbx       # (Optional) Tableau workbook — consider using public link instead
 ├── images/                       # Images and previews used for documentation and presentation
 │   └── dashboard-preview.png     # Screenshot of the Tableau dashboard for quick reference
